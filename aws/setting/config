@@ -1,6 +1,6 @@
 [default]
 region = ap-northeast-2
 output = json
-mfa_serial = arn:aws:iam::{ACCOUNT_NUMBER}:mfa/admin
+mfa_serial = arn:aws:iam::{017820697174}:mfa/admin
 
 

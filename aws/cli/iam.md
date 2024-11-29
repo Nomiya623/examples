@@ -1,6 +1,6 @@
 [sts]
 aws sts assume-role \
---role-arn arn:aws:iam::{ACCOUNT_NUMBER}:role/S3DeleteRole \
+--role-arn arn:aws:iam::017820697174:role/S3DeleteRole \
 --role-session-name testman \
 --duration-seconds 900
 
